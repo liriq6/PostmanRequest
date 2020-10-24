@@ -1,0 +1,4 @@
+Client\Main.class
+Client\RandomController.class
+Client\RequestController.class
+Client\InfluxController.class
